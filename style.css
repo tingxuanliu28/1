@@ -17,7 +17,7 @@ ul{
 .wrapper{
 	width:1500px;
 	height:1050px;
-	background-image:url(images/backk10.jpg) ;
+	background-image:url(images/gb3.jpg) ;
 	/*符合背景尺寸*/
 	background-size: cover;
 	/*元素定位-相對定位*/
@@ -74,6 +74,7 @@ ul{
 	/*字體*/
 	font-family: Bookman, URW Bookman L, serif;
 	color:#C21010;
+	margin-left: 50px;
 	/*動畫名稱*/
 	/*animation-name: color;*/
 	/*動畫時間*/
@@ -109,15 +110,7 @@ ul{
 	font-family: Bookman, URW Bookman L, serif;
 	color: #C21010;
 	font-weight: bold;
-}
-
-.container br{
-	/*大小*/
-	font-size:30px;
-	/*字體*/
-	font-family:Comic Sans MS, Comic Sans, cursive;
-	color: #C21010;
-	margin-top:-75px;
+	margin-left: 50px;
 }
 
 .container p{
@@ -126,6 +119,7 @@ ul{
 	/*外距*/
 	margin-right:30px;
 	font-family:Bookman, URW Bookman L, serif;
+	margin-left: 50px;
 }
 
 .container a{
@@ -151,6 +145,7 @@ ul{
 	/*轉變-放大*/
 	transform:scale(1.2) ;
 	opacity: 1;
+	margin-left: 50px;
 }
 /*社群連結*/
 .social-media{
@@ -158,6 +153,7 @@ ul{
 	position: absolute;
 	bottom:20px ;
 	right: 100px;
+	margin-left: 50px;
 }
 
 .social-media li{
@@ -166,6 +162,7 @@ ul{
 	/*外距*/
 	margin-left: 30px;
 	font-size: 100px;
+	margin-left: 50px;
 }
 .social-media a{
 
